@@ -10,6 +10,8 @@ def main():
     print('firstmodule name is {}'.format(__name__
 def new_func():
     pass
+def add_a_func():
+    pass
 
 
 if __name__ == '__main__':
