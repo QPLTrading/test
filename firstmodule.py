@@ -7,7 +7,9 @@ Created on Thu Nov  2 05:42:16 2017
 print('firstmodule name is {}'.format(__name__))
 print('new line added')
 def main():
-    print('firstmodule name is {}'.format(__name__))
+    print('firstmodule name is {}'.format(__name__
+def new_func():
+    pass
 
 
 if __name__ == '__main__':
