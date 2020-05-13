@@ -9,7 +9,7 @@ print('new line added')
 def main():
     print('firstmodule name is {}'.format(__name__
 def new_func():
-    pass
+    print('new_func')
 def add_a_func():
     pass
 
