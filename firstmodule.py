@@ -11,7 +11,7 @@ def main():
 def new_func():
     print('new_func')
 def add_a_func():
-    pass
+    print("addfunc")
 
 
 if __name__ == '__main__':
